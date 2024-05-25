@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.Info_Fragment">
+
+    <!-- TODO: Update blank fragment layout -->
+  <ScrollView
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+      <LinearLayout
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:orientation="vertical">
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent"
+           android:layout_weight="2">
+           <TextView
+               android:layout_width="match_parent"
+               android:layout_height="match_parent"
+               android:text="SQUADS"
+               android:textSize="25dp"
+               android:textColor="#F2F0F0"
+               android:background="#463F3F"
+               android:padding="20dp"/>
+       </LinearLayout>
+          <TextView
+              android:layout_width="match_parent"
+              android:layout_height="50dp"
+              android:text="INFO"
+              android:textSize="25dp"
+              android:textColor="@color/white"
+              android:background="#2E2A2A"
+              android:padding="10dp"/>
+          <LinearLayout
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:layout_weight="1"
+              android:background="#463F3F"
+              android:orientation="vertical">
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Series       The Ashes 2023"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Date       Wed,jun 28-sun,jul 02"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Time       03:30 pm,your Time"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Toss       England opt to bowl"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Venue       Lord's, London"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Umpires      Ahsan Raza,Chris Gaffaney"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="3rd Umpire       Marais Erasmus"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Referee       Andy Pycroft"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Match       2nd Test"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Match       2nd Test"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Match       2nd Test"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Match       2nd Test"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+              <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="match_parent"
+                  android:layout_weight="1"
+                  android:text="Match       2nd Test"
+                  android:textColor="@color/white"
+                  android:textSize="20dp"
+                  android:padding="15dp"/>
+
+
+          </LinearLayout>
+
+
+      </LinearLayout>
+
+  </ScrollView>
+
+</FrameLayout>
